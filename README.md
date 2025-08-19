@@ -1,6 +1,40 @@
 # 📘 proyecto Analisis de datos
 
-
+Primera parte:
+Estudiantes:
+ALEJANDRA FORERO RODRIGUEZ A00417411
+JOSE REALPE MUÑOZ A00417017
+SANTIAGO ARISTIZABAL MORALES A00423284
+1. Descripción del problema: <br>
+Las lesiones en fútbol universitario generan pérdidas de minutos de juego, bajo rendimiento y
+costos de rehabilitación; predecir el riesgo de lesión permite ajustar cargas de entrenamiento y
+reducir bajas en la siguiente temporada. El dataset seleccionado fue creado precisamente para
+“predecir si un jugador sufrirá una lesión en la próxima temporada académica.”
+2. Justificación del uso de Ciencia de Datos o IA: <br>
+Este problema puede resolverse efectivamente utilizando algoritmos de aprendizaje
+automático para clasificación binaria aplicados a la predicción de lesiones deportivas. Los datos
+disponibles en el dataset "University Football Injury Prediction Dataset" incluyen 18
+características comprehensivas de 800 jugadores universitarios, abarcando:
+• Datos físicos: edad, altura, peso, BMI
+• Métricas específicas del fútbol: posición, horas de entrenamiento, historial de partidos
+• Evaluaciones de condición física: fuerza, flexibilidad, velocidad, agilidad
+• Factores de estilo de vida: sueño, estrés, nutrición
+• Cumplimiento de entrenamiento: adherencia a programas establecidos
+La variable objetivo "Injury_Next_Season" permite entrenar modelos de clasificación binaria
+para predecir si un jugador sufrirá una lesión que cause ≥7 días consecutivos de ausencia en la
+siguiente temporada académica.
+Los enfoques de IA más adecuados incluyen:
+• Métodos basados en árboles como Random Forest y XGBoost
+• Redes Neuronales y Máquinas de Vectores de Soporte para capturar patrones
+complejos
+• Análisis de series temporales para evaluar tendencias de carga de entrenamiento
+3. Formulación de una pregunta SMART: <br>
+"¿Es posible desarrollar un modelo de clasificación de aprendizaje supervisado capaz de
+predecir con una precisión, AUC-ROC, o F1-Score ≥ 0.85 qué jugadores de fútbol universitario
+sufrirán lesiones en los próximos 6 meses, utilizando datos de características físicas, técnicas y
+de estilo de vida dataset 'University Football Injury Prediction Dataset' para informar la creación
+de un programa de intervención preventiva personalizado que se implementará para la
+temporada 2025-2026?"
 
 ## ⚙️ Requirements
 - [Python 3.10+](https://www.python.org/)  
