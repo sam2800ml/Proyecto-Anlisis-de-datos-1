@@ -1,10 +1,10 @@
 # 📘 proyecto Analisis de datos
 
-Primera parte:
-Estudiantes:
-ALEJANDRA FORERO RODRIGUEZ A00417411
-JOSE REALPE MUÑOZ A00417017
-SANTIAGO ARISTIZABAL MORALES A00423284
+Primera parte: <br>
+Estudiantes: <br>
+ALEJANDRA FORERO RODRIGUEZ  <br>
+JOSE REALPE MUÑOZ  <br>
+SANTIAGO ARISTIZABAL MORALES  <br>
 1. Descripción del problema: <br>
 Las lesiones en fútbol universitario generan pérdidas de minutos de juego, bajo rendimiento y
 costos de rehabilitación; predecir el riesgo de lesión permite ajustar cargas de entrenamiento y
