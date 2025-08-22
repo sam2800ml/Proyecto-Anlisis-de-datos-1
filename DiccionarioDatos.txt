@@ -1,0 +1,126 @@
+Diccionario de Datos Completo
+Age
+
+Tipo de dato: Numérico
+
+Descripción: La edad del jugador en años.
+
+Gender
+
+Tipo de dato: Categórico
+
+Descripción: El género del jugador (por ejemplo, masculino, femenino).
+
+Weight
+
+Tipo de dato: Numérico
+
+Descripción: El peso del jugador en kilogramos.
+
+Height
+
+Tipo de dato: Numérico
+
+Descripción: La altura del jugador en centímetros.
+
+BMI
+
+Tipo de dato: Numérico
+
+Descripción: Índice de Masa Corporal (Body Mass Index), calculado a partir del peso y la altura.
+
+Position
+
+Tipo de dato: Categórico
+
+Descripción: La posición de juego del futbolista (por ejemplo, defensor, mediocampista, delantero).
+
+Pre_Existing_Conditions
+
+Tipo de dato: Binario/Categórico
+
+Descripción: Indica si el jugador tiene alguna condición médica preexistente.
+
+Concussion_History
+
+Tipo de dato: Numérico/Categórico
+
+Descripción: Historial de conmociones cerebrales previas.
+
+Sleep_Hours
+
+Tipo de dato: Numérico
+
+Descripción: El número promedio de horas de sueño del jugador.
+
+Nutrition_Score
+
+Tipo de dato: Numérico
+
+Descripción: Puntuación que evalúa la calidad de la nutrición del jugador.
+
+Hydration_Level
+
+Tipo de dato: Numérico/Categórico
+
+Descripción: El nivel de hidratación del jugador.
+
+Training_Hours
+
+Tipo de dato: Numérico
+
+Descripción: El número de horas de entrenamiento.
+
+Game_Minutes
+
+Tipo de dato: Numérico
+
+Descripción: Los minutos totales jugados en los partidos.
+
+Warmup_Routine_Adherence
+
+Tipo de dato: Numérico/Categórico
+
+Descripción: El nivel de cumplimiento del jugador con su rutina de calentamiento.
+
+Surface_Type
+
+Tipo de dato: Categórico
+
+Descripción: El tipo de superficie en la que se juega (por ejemplo, césped natural, artificial).
+
+Weather_Conditions
+
+Tipo de dato: Categórico
+
+Descripción: Las condiciones climáticas durante los juegos o entrenamientos.
+
+Injury_Type
+
+Tipo de dato: Categórico
+
+Descripción: El tipo específico de lesión sufrida.
+
+Injury_Severity
+
+Tipo de dato: Categórico/Numérico
+
+Descripción: La gravedad de la lesión.
+
+Rehabilitation_Days
+
+Tipo de dato: Numérico
+
+Descripción: El número de días de rehabilitación necesarios.
+
+Injury_Recurrence
+
+Tipo de dato: Binario
+
+Descripción: Indicador de si la lesión es una recurrencia de una anterior.
+
+Injury_Next_Season
+
+Tipo de dato: Binario
+
+Descripción: Variable objetivo que indica si el jugador sufrió una lesión en la siguiente temporada (1 = Sí, 0 = No).
