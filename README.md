@@ -36,6 +36,22 @@ de estilo de vida dataset 'University Football Injury Prediction Dataset' para i
 de un programa de intervención preventiva personalizado que se implementará para la
 temporada 2025-2026?"
 
+
+# My Project
+
+This repository contains the analysis and results of my project.
+
+## Notebooks
+
+- [Analisis Univariado](analisis_univariado.ipynb)
+- [Analisis Bivariado](analisis_bivariado.ipynb)
+- [Diccionario de datos](DiccionarioDatos.txt)
+- [Analisis y creacion de modelos](main.ipynb)
+
+
+
+
+
 ## ⚙️ Requirements
 - [Python 3.10+](https://www.python.org/)  
 - [uv package manager](https://github.com/astral-sh/uv)  
